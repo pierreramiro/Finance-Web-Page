@@ -1,7 +1,6 @@
-sqlite3
-Flask
-Flask-Session
+flask
+flask_session
 pytz
 requests
 logging
-functools
+cachelib
