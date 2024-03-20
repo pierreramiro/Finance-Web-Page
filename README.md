@@ -32,7 +32,7 @@ It is a web page designed to act as a stock market buying and selling simulator.
 `$pip3 install -r requirements.txt` 
 
 ## Running
-- The project was made on Flask framework. To run the code type:
+- The project was made on Flask framework. To run the code just type in your computer or try a CodeSpace :)
 
 `$flask run`
 
