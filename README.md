@@ -28,10 +28,12 @@ It is a web page designed to act as a stock market buying and selling simulator.
 # Execution
 ## Requirements
 - There is a `requirements.txt` file
+
 `$pip3 install -r requirements.txt` 
 
 ## Running
 - The project was made on Flask framework. To run the code type:
+
 `$flask run`
 
 # **Images**
