@@ -10,7 +10,7 @@ import logging
 FORMAT_LOGGING='%(asctime)s - %(levelname)s - (%(filename)s:%(lineno)d): %(message)s'
 logging.basicConfig(level=logging.INFO,format=FORMAT_LOGGING)
 
-DATABASE_FILENAME="/mnt/SSD/Documents/CS50/Week9-FLASK/8-finance/finance.db"
+DATABASE_FILENAME="finance.db"
 """ FUNCIONES """
 def sqlite3_command(command):
     db=sqlite3.connect(DATABASE_FILENAME)
